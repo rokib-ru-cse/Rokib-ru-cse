@@ -2,9 +2,9 @@
 #### Software Engineer | SpringBoot | ASP.NET Core | Frontend dev | Backend dev | DevOps | Competitive Programmer | Programming Mentor
 ![Software Engineer | ASP.NET Core | Frontend dev | Backend dev | DevOps | Competitive Programmer | Programming Mentor](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/272390985_772040997522006_2492134075318198420_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MrG_3O3DXEQAX8hN83J&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBMgpSR2IrETn7o9G6TDFW0rF6Bby7SfWF7TaI3qsvKeA&oe=636562B5)
 
-I love mathematical and algorithmic problem-solving. Solved more than 200 data structure and algorithm-based problems using C++/java in various online judges. I have more than 1y development experience in Backend dev. I also like to work in asp.net core,spring,DevOps.
+I love mathematical and algorithmic problem-solving. Solved more than 600 data structure and algorithm-based problems using C++/java in various online judges. I have more than 1y development experience in Backend dev. I also like to work in spring,DevOps.
 
-Skills: C | C++ | Java | C# | Javascript | Python |  Angular | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
+Skills: Java | C# | Javascript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
 
 - 🔭 I’m currently working on Bizzntek 
 - 🌱 I’m currently learning DevOps 
