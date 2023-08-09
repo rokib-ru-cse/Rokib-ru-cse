@@ -3,7 +3,7 @@
 
 I love mathematical and algorithmic problem-solving. Solved more than 600 data structure and algorithm-based problems using JAVA in various online judges. I have more than 1y development experience in Backend dev. I also like to work in spring,DevOps.
 
-Skills: Java | C# | Javascript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
+Skills: Java | Javascript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
 
 - 🔭 I’m currently working on Bizzntek 
 - 🌱 I’m currently learning Microservices Architecture & DevOps 
