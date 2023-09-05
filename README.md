@@ -3,7 +3,7 @@
 
 Skills: Java | Javascript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
 
-- 🔭 I’m currently working on TherapBD 
+- 🔭 I’m currently working on Therap BD Ltd.
 - 🌱 I’m currently learning Microservices Architecture & DevOps 
 - 📫 How to reach me: rokibahmed.ru.cse@gmail.com 
 
