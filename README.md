@@ -5,7 +5,7 @@ Skills: Java | Javascript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker 
 
 - 🔭 I’m currently working on Therap BD Ltd.
 - 🌱 I’m currently learning Microservices Architecture & DevOps 
-- 📫 How to reach me: rokibahmed.ru.cse@gmail.com 
+- 📫 How to reach me: rokibahmed.ru.cse@ru.ac.bd
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rokib-ru-cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rokib-ru-cse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rokibahmed.ru.cse/)
