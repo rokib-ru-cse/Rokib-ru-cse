@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Rokib Ahmed
 #### Software Engineer | JAVA | SpringBoot | Frontend dev | Backend dev | DevOps | Competitive Programmer | Programming Mentor
 
-Skills: Java | Javascript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
+Skills: Java | TypeScript | REACT | HTML | CSS | Linux | SQL | MongoDB | Docker | Kubernetes | Git | Jenkins | Microservices
 
-- 🔭 I’m currently working on Therap BD Ltd.
 - 🌱 I’m currently learning Microservices Architecture & DevOps 
 - 📫 How to reach me: rokibahmed.ru.cse@ru.ac.bd
 
